@@ -1,7 +1,3 @@
 print("home")
-\
-hi 
 
-hello
-
-this is test file
+print("hi this is day 2")
